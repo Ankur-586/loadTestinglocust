@@ -1,10 +1,23 @@
-https://api-dev.nourishstore.in/health
-cms-dev.nourishstore.in/health
+https://docs.locust.io/en/stable/index.html
 
+
+
+
+=================================================
+=============
+Urls To Test:
+=============
+1. https://api-dev.nourishstore.in/health
+2. cms-dev.nourishstore.in/health
 api-dev.nourishstore.in/health
-
 storefront-dev /store/product
 cms-dev.nourishstore.in/health
-
-
-"I'm using Locust with Python, simulating 500 users with a ramp-up of 500. In the Charts section, the total requests per second is displayed as a floating-point number."
+=================================================
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=================================================
+=============
+Search Text:
+=============
+"I'm using Locust with Python, simulating 500 users with a ramp-up of 500. 
+In the Charts section, the total requests per second is displayed as a floating-point number."
+=================================================
