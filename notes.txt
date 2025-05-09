@@ -8,9 +8,10 @@ https://docs.locust.io/en/stable/index.html
 Urls To Test:
 =============
 1. https://api-dev.nourishstore.in/health
-2. cms-dev.nourishstore.in/health
+2. https://cms-dev.nourishstore.in/health
 api-dev.nourishstore.in/health
-storefront-dev /store/product
+https://storefront-dev.nourishstore.in/health 
+/store/product
 cms-dev.nourishstore.in/health
 =================================================
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
