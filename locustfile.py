@@ -12,7 +12,8 @@ class WebsiteUser(HttpUser):
     
     @task
     def api_gateway(self):
-        url = "/store/product/list"
+        # url = "/store/product/list"
+        url = "/store/products"
         full_url = self.client.base_url + url
         print(full_url)
         self.client.get(url)

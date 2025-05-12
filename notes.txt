@@ -3,6 +3,8 @@ https://docs.locust.io/en/stable/index.html
 https://www.youtube.com/watch?v=LecXT67dptQ
 
 https://api-dev.nourishstore.in/api/store/product/list
+
+https://storefront-dev.nourishstore.in/store/products
 =================================================
 =============
 Urls To Test:
