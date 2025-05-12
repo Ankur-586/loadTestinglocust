@@ -4,13 +4,18 @@ class WebsiteUser(HttpUser):
     
     wait_time = between(1, 5) 
     
-    @task
-    def home_page(self):
-        self.client.get("/health", name="Home Page")
-    
     # @task
-    # def grocery_page(self):
-    #     self.client.get("/grocery", name="Grocery Page")
+    # def home_page(self):
+    #     url = "/health"
+    #     full_url = self.client.base_url + url
+    #     self.client.get(url)
+    
+    @task
+    def api_gateway(self):
+        url = "/store/product/list"
+        full_url = self.client.base_url + url
+        print(full_url)
+        self.client.get(url)
         
     # @task
     # def about_us(self):
