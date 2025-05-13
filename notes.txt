@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=LecXT67dptQ
 https://api-dev.nourishstore.in/api/store/product/list
 
 https://storefront-dev.nourishstore.in/store/products
+
+https://medium.com/@ezekieloluwadamy/load-testing-a-crud-app-with-locust-a-complete-guide-7af9cc1be70d
 =================================================
 =============
 Urls To Test:
@@ -24,3 +26,17 @@ Search Text:
 "I'm using Locust with Python, simulating 500 users with a ramp-up of 500. 
 In the Charts section, the total requests per second is displayed as a floating-point number."
 =================================================
+
+locust crud operation
+
+========================================================
+For CRUD Operation:
+-------------------
+JSONPlaceholder : https://jsonplaceholder.typicode.com/
+CrudCrud : https://crudcrud.com/
+MockAPI : https://mockapi.io/
+Beeceptor : https://beeceptor.com/crud-api/
+========================================================
+
+the post api creates data. and  a id is generated. i want to fetch that generated id and pass onto the other task. 
+suppose in get api i want to pass the id to the api and view only my generated data. also the put and delete apis will also use that id
