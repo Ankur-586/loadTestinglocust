@@ -43,3 +43,9 @@ suppose in get api i want to pass the id to the api and view only my generated d
 
 since past 3 days i am using locust. I am not very pleased with the ui and dont wa t o use it. now if i want to do everything from the command line, 
 that is also very bring. what do you suggest
+
+https://www.youtube.com/watch?v=n9LvETGbAB0
+
+https://api-dev.nourishstore.in/api/store/products/prod_01JDS0Z98MQTWS9T61CK7QJCMY
+
+"With a total of 5,000 users and a spawn rate of 5,000 users per second, Locust achieved a maximum requests per second (RPS) of 195.2."
