@@ -49,3 +49,11 @@ https://www.youtube.com/watch?v=n9LvETGbAB0
 https://api-dev.nourishstore.in/api/store/products/prod_01JDS0Z98MQTWS9T61CK7QJCMY
 
 "With a total of 5,000 users and a spawn rate of 5,000 users per second, Locust achieved a maximum requests per second (RPS) of 195.2."
+
+=================================================
+=============
+For Study:
+=============
+1. https://gatling.io/blog/workload-models-in-load-testing
+2. In load testing, are there any standard models that we follow?
+=================================================
