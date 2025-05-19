@@ -58,3 +58,4 @@ For Study:
 2. In load testing, are there any standard models that we follow?
 no of request
 =================================================
+https://www.locust.cloud/blog/closed-vs-open-workload-models
